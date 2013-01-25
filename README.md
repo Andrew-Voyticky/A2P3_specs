@@ -5,7 +5,7 @@ Authentication &amp; Authorization Privacy Protecting Protocol Specifications
 
 ## Related
 
-[A2P3.NET](http://a2p3.net) A2P3 project home page
+[A2P3 project home page](http://a2p3.net)
 
 [A2P3](https://github.com/dickhardt/A2P3) POC Server implementation source (node.js)
 
